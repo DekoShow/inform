@@ -1,0 +1,43 @@
+<table border=1>
+<br>
+<p align="center">
+<caption>
+<font color="yellow" size=4>
+Измерение информации
+</caption>
+<tr>
+<td bgcolor="white-green">
+бит
+</Td>
+<td bgcolor="white-green">
+байт
+</td>
+<td bgcolor="white-green">
+кб
+</td>
+<td bgcolor="white-green">
+мб
+</td>
+<td bgcolor="white-green">
+гб
+</td>
+</tr>
+<tr>
+<td bgcolor="white-green">
+:8
+</td>
+<td bgcolor="white-green">
+:1024
+</td>
+<td bgcolor="white-green">
+:1024
+</td>
+<td bgcolor="white-green">
+:1024
+</td>
+<td bgcolor="white-green">
+:1024
+</font>
+</td>
+</tr>
+</table>

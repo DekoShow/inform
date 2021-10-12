@@ -1,0 +1,20 @@
+<form>
+<font color="white-green" size=5>
+По какому прдмету вы бы хотели такой сайт?
+<br>
+<select name="Предмет">
+<option selected> История
+<option selected> Русский
+<option selected> Физ-ра
+<option selected> Литература
+<option selected> Другой
+</select>
+<br>
+Какие у вас будут жалобы/предложения по нашему сайту?
+<br>
+<textarea name="Ваши предложения" rows="4" cols="30">
+</textarea>
+<br>
+<form action="mail to:oleg.sirotkin05@mail.ru" method="post" enctype="text/plain">
+<input type="submit" value="Отправить">
+</font>
